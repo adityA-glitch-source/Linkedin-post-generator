@@ -19,3 +19,15 @@
             "Job Search",
             "Mental Health"
         ]
+
+       },
+    {
+        "text": "Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you\u2019re just left ghosted.",
+        "engagement": 109,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Job Search",
+            "Online Dating"
+        ]
+    },
