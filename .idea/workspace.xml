@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409654d7-cf11-4403-aaa0-986f03506f43" name="Changes" comment="feat(config): add JSON text file for storing configuration/data">
+      <change afterPath="$PROJECT_DIR$/.idea/Linkedin-post-generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocess.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adityA-glitch-source&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adityA-glitch-source/Linkedin-post-generator.git&quot;,
+    &quot;accountId&quot;: &quot;fbd8251e-b769-4379-af10-f74eb318afa8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34atMGtOWW0xhi7GFafl79FJj6I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409654d7-cf11-4403-aaa0-986f03506f43" name="Changes" comment="" />
+      <created>1761463460452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761463460452</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commits">
+      <option name="closed" value="true" />
+      <created>1761463721873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761463721873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464209354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464209354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464333297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464333297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464406770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464406770</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464594282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464594282</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464655794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464655794</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464693772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464693772</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464731426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464731426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464768029</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464768029</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat(config): add JSON text file for storing configuration/data">
+      <option name="closed" value="true" />
+      <created>1761464856903</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761464856903</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commits" />
+    <MESSAGE value="Add JSON text file for storing configuration/data" />
+    <MESSAGE value="feat(config): add JSON text file for storing configuration/data" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(config): add JSON text file for storing configuration/data" />
+  </component>
+</project>
